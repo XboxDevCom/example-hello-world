@@ -16,7 +16,7 @@ More on [XBoxdev.com](https://www.xboxdev.com/tutorials/schritt-fuer-schritt-zum
 
 ## Authors
 
-* **XboxDev.Com Team** - *Initial work* - [PurpleBooth](https://github.com/XboxDevCom)
+* **XboxDev.Com Team** - *Initial work* - [XboxDevCom Team](https://github.com/XboxDevCom)
 
 ---
 
