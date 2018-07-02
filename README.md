@@ -31,5 +31,3 @@ See also the list of [contributors](https://github.com/XboxDevCom/Hello-World---
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) ![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg) ![apm](https://img.shields.io/apm/l/vim-mode.svg)
