@@ -6,7 +6,7 @@ This is a "Hello World!" example running with UWP technology on the Xbox One.
 
 Please follow our [tutorial](https://xboxdev.com/tutorials/schritt-fuer-schritt-zum-hello-world-auf-der-xbox-one) to create your own "Hello World!" application.
 
-## Built With
+## Built with
 
 * [Visual Studio](https://visualstudio.microsoft.com/) - C# Editor from Microsoft
 * [Xbox One](https://afflnk.microsoft.com/c/1256010/476314/7806/) - Testing the application
