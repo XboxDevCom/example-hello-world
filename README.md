@@ -1,33 +1,24 @@
-# Hello-World---UWP
-An Hello World Example for UWP with Xbox One.
+# Hello World! 🙋🏼🌎
+
+This is a "Hello World!" example running with UWP technology on the Xbox One.
 
 ## Getting Started
 
-More on [XBoxdev.com](https://www.xboxdev.com/tutorials/schritt-fuer-schritt-zum-hello-world-auf-der-xbox-oned)
+Please follow our [tutorial](https://xboxdev.com/tutorials/schritt-fuer-schritt-zum-hello-world-auf-der-xbox-one) to create your own "Hello World!" application.
 
 ## Built With
 
-* [Visual Studio](http://www.dropwizard.io/1.0.2/docs/) - C# Editor from Microsoft 
-* [Xbox One ](https://afflnk.microsoft.com/c/1256010/476314/7806/) - Hardware Testing
+* [Visual Studio](https://visualstudio.microsoft.com/) - C# Editor from Microsoft
+* [Xbox One](https://afflnk.microsoft.com/c/1256010/476314/7806/) - Testing the application
 
 
-
----
-
-## Authors
+## Contributors
 
 * **XboxDev.Com Team** - *Initial work* - [XboxDevCom Team](https://github.com/XboxDevCom)
 
----
-
 See also the list of [contributors](https://github.com/XboxDevCom/Hello-World---UWP/contributors) who participated in this project.
 
----
-
-## Donations (Optional)
-
----
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
