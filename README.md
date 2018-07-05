@@ -14,9 +14,7 @@ Please follow our [tutorial](https://xboxdev.com/tutorials/schritt-fuer-schritt-
 
 ## Contributors
 
-* **XboxDev.Com Team** - *Initial work* - [XboxDevCom Team](https://github.com/XboxDevCom)
-
-See also the list of [contributors](https://github.com/XboxDevCom/Hello-World---UWP/contributors) who participated in this project.
+See the [list of contributors](https://github.com/XboxDevCom/Hello-World---UWP/contributors) who participated in this project.
 
 
 ## License
