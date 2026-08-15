@@ -6,11 +6,17 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
+    UseSystemFocusVisuals="True"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-        <TextBlock>
-            Hello World! 
+    <Grid Padding="48">
+        <TextBlock HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   TextAlignment="Center"
+                   FontSize="36"
+                   FontWeight="SemiBold"
+                   TextWrapping="Wrap">
+            Hello World!
             Greetings from XboxDev.com Team
         </TextBlock>
     </Grid>
